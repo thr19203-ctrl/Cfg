@@ -1,10 +1,10 @@
-# Sweet Vpn Spot
+# Cfg
 
 Cfg — a landing page that sells working VPN configs (VLESS, WireGuard, Shadowsocks, Outline). The site is available in 20 languages; Russian lives at `/` and every other language at `/<code>` (for example `/en`, `/de`).
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://sweet-vpn-spot.lovable.app
+**Live app**: discontinued
 
 ## Build with Lovable
 
